@@ -38,8 +38,6 @@ vendor/lib64/hw/vendor.qti.hardware.alarm@1.0-impl.so|1e2631850cc97dfedbde50a9d0
 vendor/lib64/vendor.qti.hardware.alarm@1.0.so|271f85f1c6dc0c65dc3aa9a8603f3910fa50e1ea
 
 # ANT+ (system) - from laurel_sprout-user 9 PKQ1.190416.001 V10.3.4.0.PFQMIXM release-keys
--lib/libantradio.so|8d9bd787f54a5ad028591ca8a68ba2e0ba43158a
--lib64/libantradio.so|b1b05e284c71a9552bc7e3f5407520f0757033a8
 lib/com.qualcomm.qti.ant@1.0.so|fd8a3ac1c865ef3b0f6f3eedd85786a9993db114
 lib64/com.qualcomm.qti.ant@1.0.so|ad4f7601400bbe6ca9d82dcc6a38023e48d35469
 
