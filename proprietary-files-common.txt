@@ -1692,6 +1692,7 @@ vendor/bin/pd-mapper|17569fec4fcb1ba459461f99185f2609d99decf5
 vendor/lib/libdiag.so|0d48f6e859381955d711c7c24bd2fdf6d36ff204
 vendor/lib/libdsutils.so|6dd9fbe990eb1f70a1aab65402c2236bd1d8d0d4
 vendor/lib/libidl.so|274bc453454288dcb15ac3e340c9526cafcb2fb4
+vendor/lib/libpvr.so
 vendor/lib/libqcci_legacy.so|d89721d77d01492829165d2547dd6b8eb4176bf0
 vendor/lib/libqdi.so|3ae60849e09aea2b991ab2870d24e029e7a540f2
 vendor/lib/libqdp.so|17b24df612152ac09d5662587c643297dcf2e0cd
@@ -1706,6 +1707,7 @@ vendor/lib/libqmiservices.so|3c70302985c9bd4570b1585d2f89effb033f449b
 vendor/lib64/libdiag.so|3de899037a33381d23f15ee2dce1d9ecdae64a8c
 vendor/lib64/libdsutils.so|568368395fa405879e3c3220378306f0f1259eb9
 vendor/lib64/libidl.so|ea0cd6e8dd41264eefbbb843d47e60cc62d2037e
+vendor/lib64/libpvr.so
 vendor/lib64/libqcci_legacy.so|6b706c4fd6d2730f7e6b3a347a9268bcd1141ee6
 vendor/lib64/libqdi.so|03ec22d5e35a37a0f70d63c1e217210dfebb10cf
 vendor/lib64/libqdp.so|c31f481a17c1e2404dedd2a655253aeac540296a
