@@ -16,6 +16,9 @@ $(call inherit-product-if-exists, vendor/xiaomi/sm6125-common/sm6125-common-vend
 # Vendor properties
 -include $(LOCAL_PATH)/vendor_prop.mk
 
+# Soong namespaces
+PRODUCT_SOONG_NAMESPACES += $(LOCAL_PATH)
+
 PRODUCT_CHARACTERISTICS := nosdcard
 
 # Boot animation
